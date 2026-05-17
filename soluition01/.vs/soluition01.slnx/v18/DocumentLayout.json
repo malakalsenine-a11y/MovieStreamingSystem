@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "project01\\Data\\ApplicationDbContext.cs",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "project01.csproj",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\project01.csproj",
               "RelativeDocumentMoniker": "project01\\project01.csproj",
@@ -70,32 +70,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Watchlist.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Watchlist.cs",
               "RelativeDocumentMoniker": "project01\\Models\\Watchlist.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Watchlist.cs",
               "RelativeToolTip": "project01\\Models\\Watchlist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:32:32.366Z"
+              "WhenOpened": "2026-05-17T11:32:32.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Review.cs",
               "RelativeDocumentMoniker": "project01\\Models\\Review.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Review.cs",
               "RelativeToolTip": "project01\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T11:32:14.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "project01\\Models\\Movie.cs",
@@ -103,12 +104,11 @@
               "RelativeToolTip": "project01\\Models\\Movie.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:31:50.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T11:31:50.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Category.cs",
               "RelativeDocumentMoniker": "project01\\Models\\Category.cs",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\User.cs",
               "RelativeDocumentMoniker": "project01\\Models\\User.cs",
