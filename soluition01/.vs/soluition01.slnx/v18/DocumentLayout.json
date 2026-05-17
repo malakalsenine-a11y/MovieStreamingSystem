@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Migrations\\20260517121238_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project01\\Migrations\\20260517121238_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +27,16 @@
       "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\migrations\\20260517121238_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\migrations\\20260517121238_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\moviestreamingsystem\\soluition01\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "20260517121238_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Migrations\\20260517121238_InitialCreate.cs",
               "RelativeDocumentMoniker": "project01\\Migrations\\20260517121238_InitialCreate.cs",
@@ -63,20 +63,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "project01\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "project01\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwBUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T11:41:47.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "project01.csproj",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\project01.csproj",
               "RelativeDocumentMoniker": "project01\\project01.csproj",
@@ -88,15 +88,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Watchlist.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Watchlist.cs",
               "RelativeDocumentMoniker": "project01\\Models\\Watchlist.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Watchlist.cs",
               "RelativeToolTip": "project01\\Models\\Watchlist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:32:32.366Z"
+              "WhenOpened": "2026-05-17T11:32:32.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,9 +107,10 @@
               "RelativeDocumentMoniker": "project01\\Models\\Review.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Review.cs",
               "RelativeToolTip": "project01\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:32:14.154Z"
+              "WhenOpened": "2026-05-17T11:32:14.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,9 +120,10 @@
               "RelativeDocumentMoniker": "project01\\Models\\Movie.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Movie.cs",
               "RelativeToolTip": "project01\\Models\\Movie.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:31:50.535Z"
+              "WhenOpened": "2026-05-17T11:31:50.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,33 +133,36 @@
               "RelativeDocumentMoniker": "project01\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\Category.cs",
               "RelativeToolTip": "project01\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:31:32.665Z"
+              "WhenOpened": "2026-05-17T11:31:32.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\User.cs",
               "RelativeDocumentMoniker": "project01\\Models\\User.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Models\\User.cs",
               "RelativeToolTip": "project01\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:31:12.106Z"
+              "WhenOpened": "2026-05-17T11:31:12.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Program.cs",
               "RelativeDocumentMoniker": "project01\\Program.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\MovieStreamingSystem\\soluition01\\project01\\Program.cs",
               "RelativeToolTip": "project01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:20:50.156Z"
+              "WhenOpened": "2026-05-17T11:20:50.156Z",
+              "EditorCaption": ""
             }
           ]
         }
